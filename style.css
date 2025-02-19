@@ -1,0 +1,54 @@
+body {
+    width: 80%;
+    margin: auto;
+    background-color: #000000;
+    color: rgb(202, 202, 202);
+    
+    font-family: 'Roboto', sans-serif;
+
+
+
+}
+
+h1,
+h3 {
+    text-align: center;
+    padding: 20px 0px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    padding-bottom: 100px;
+}
+
+
+th,
+td {
+    border: 1px solid #dddddd;
+    text-align: auto;
+    padding: 8px;
+}
+td {
+    text-align: center;
+}
+
+li {
+    padding: 3px 0px;
+
+}
+
+table,
+tr {
+    border-collapse: collapse;
+    width: 100%;
+    padding: 300px;
+}
+
+img {
+    width: 300px;
+}
+
+h3 {
+    font-size: xx-large;
+}
